@@ -2,6 +2,7 @@
 
 ################ Interview Questions #############
 #Question1
+#testing git
 def foo(array):
     sum = 0
     product = 1
